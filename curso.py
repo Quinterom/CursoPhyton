@@ -28,3 +28,4 @@ if __name__=='__main__':
 #'http://sixty-north.com/c/t.txt'
 #sys.argv[1]
 #..
+#linux
